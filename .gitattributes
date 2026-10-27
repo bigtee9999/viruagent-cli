@@ -1,0 +1,8 @@
+# Language detection rules
+src/**/*.ts linguist-detectable
+docs/**/*.html linguist-vendored
+*.tsx linguist-detectable  
+*.gif binary
+*.map linguist-generated
+docs/** linguist-vendored
+# eof fc817cd9
